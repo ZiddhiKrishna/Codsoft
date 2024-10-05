@@ -1,5 +1,3 @@
-****# Codsoft
-This project based on to do list
 # To Do List
 ## A simple To Do List web-app, that lets you save your tasks locally.
 <br>
